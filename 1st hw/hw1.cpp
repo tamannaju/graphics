@@ -10,6 +10,7 @@ int main()
    initgraph(&gd, &gm, "C:\\TC\\BGI");
     line(left - 10, top + 150, left + 410, top + 150);
     line(x, y, x + 420, y);
+    line(x+10, y+10, x + 420, y+20);
 
    getch();
    closegraph();
