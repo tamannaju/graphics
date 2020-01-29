@@ -1,0 +1,12 @@
+Setting up Compilers
+
+IDE: Codeblocks
+Version: Latest 17.12 or above
+
+Now,
+Download “glut-3.7.6-bin.zip” from google drive.
+Goto ______/MinGW/lib folder and put glut32.lib,glut.def there.
+Goto ______/MinGW/ include/GL/ and put glut.h there.
+Goto ______/MinGW/bin and put glut.dll , glut.def there.
+
+
